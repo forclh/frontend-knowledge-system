@@ -1,3 +1,5 @@
+#JS笔面试
+
 [详细文章](https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3)
 1. 在调用函数时使用`new`关键字，函数内的`this`是一个全新的对象。
 2. 如果`apply`、`call`或`bind`方法用于调用、创建一个函数，函数内的 this 就是作为参数传入这些方法的对象。

@@ -1,3 +1,0 @@
-[[ECMAScript]]
-[[DOM]]
-[[BOM]]
