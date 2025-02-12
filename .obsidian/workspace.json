@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识体系/服务端/服务端.md",
+                "file": "前端知识体系/语言/JavaScript/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "服务端"
+              "title": "JavaScript"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "前端知识体系/服务端/服务端.md",
+                "file": "前端知识体系/语言/JavaScript/JavaScript.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -92,19 +92,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622443,
+                  "scale": 0.7132754626224436,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "服务端 的关系图"
+              "title": "JavaScript 的关系图"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 593.5
   },
   "right": {
     "id": "6113573dd45125c3",
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识体系/服务端/服务端.md",
+                "file": "前端知识体系/语言/JavaScript/JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "服务端 的大纲"
+              "title": "JavaScript 的大纲"
             }
           }
         ]
@@ -226,21 +226,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ae9651f9b1ee339b",
+  "active": "72f72df453ba568f",
   "lastOpenFiles": [
+    "前端知识体系/语言/语言.md",
+    "工具函数/uniqueArray.md",
+    "工具函数/throttle.md",
+    "工具函数/randomNumber.md",
+    "工具函数/mergeObjects.md",
+    "工具函数/deepClone.md",
+    "工具函数/debounce.md",
+    "工具函数/curry.md",
     "前端知识体系/前端知识体系.md",
     "前端知识体系/服务端/服务端.md",
-    "前端知识体系/服务端",
+    "前端知识体系/工程化/工程化.md",
+    "前端知识体系/环境/环境.md",
+    "前端知识体系/框架/框架.md",
     "前端知识体系/思想/思想.md",
+    "前端知识体系/效率和工具/效率和工具.md",
     "前端知识体系/移动端/移动端.md",
+    "前端知识体系/服务端",
     "前端知识体系/思想",
     "前端知识体系/移动端",
-    "前端知识体系/框架/框架.md",
-    "前端知识体系/工程化/工程化.md",
-    "前端知识体系/语言/语言.md",
-    "前端知识体系/效率和工具/效率和工具.md",
     "前端知识体系/效率和工具",
-    "前端知识体系/环境/环境.md",
     "前端知识体系/环境/WebAPI.md",
     "前端知识体系/环境/网络/网络.md",
     "JS临时文件夹/WebAPI.md",
@@ -252,13 +259,6 @@
     "前端知识体系/语言/JavaScript/流程控制.md",
     "前端知识体系/语言/JavaScript/类和继承.md",
     "前端知识体系/语言/JavaScript/数据类型.md",
-    "前端知识体系/语言/JavaScript/异步编程.md",
-    "前端知识体系/语言/JavaScript/基础语法.md",
-    "前端知识体系/语言/JavaScript/对象的创建与操作.md",
-    "前端知识体系/语言/JavaScript/变量和常量.md",
-    "前端知识体系/语言/JavaScript/原型与原型链.md",
-    "前端知识体系/语言/JavaScript/函数.md",
-    "前端知识体系/语言/JavaScript/JavaScript.md",
     "前端知识体系/语言/CSS/06 属性值计算过程简介.pdf",
     "前端知识体系/语言/JavaScript",
     "前端知识体系/语言/HTML",
