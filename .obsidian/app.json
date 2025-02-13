@@ -3,5 +3,8 @@
   "defaultViewMode": "source",
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "readableLineLength": true
 }

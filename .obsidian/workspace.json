@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识体系/语言/JavaScript/JavaScript.md",
+                "file": "前端知识体系/语言/JavaScript/BOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "BOM"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "前端知识体系/语言/JavaScript/JavaScript.md",
+                "file": "前端知识体系/语言/JavaScript/BOM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -97,14 +97,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "JavaScript 的关系图"
+              "title": "BOM 的关系图"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 593.5
+    "width": 397.5
   },
   "right": {
     "id": "6113573dd45125c3",
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JavaScript/面向对象编程",
+                "query": "tag:#JavaScript/基础用法/表达式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
       {
         "id": "9f62ba8920134393",
         "type": "tabs",
-        "dimension": 36.76470588235294,
+        "dimension": 36.666666666666664,
         "children": [
           {
             "id": "ea8a2d27474bde04",
@@ -193,7 +193,7 @@
       {
         "id": "bb639f03efc4ea62",
         "type": "tabs",
-        "dimension": 30.784313725490197,
+        "dimension": 30.88235294117647,
         "children": [
           {
             "id": "66a19ec9446b2995",
@@ -201,20 +201,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识体系/语言/JavaScript/JavaScript.md",
+                "file": "前端知识体系/语言/JavaScript/BOM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JavaScript 的大纲"
+              "title": "BOM 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,39 +226,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "72f72df453ba568f",
+  "active": "ae9651f9b1ee339b",
   "lastOpenFiles": [
+    "前端知识体系/语言/JavaScript/JavaScript.md",
+    "前端知识体系/语言/JavaScript/BOM.md",
+    "前端知识体系/语言/JavaScript/面向对象OOP.md",
+    "JS临时文件夹/继承1.md",
+    "前端知识体系/语言/JavaScript/核心模块.md",
+    "前端知识体系/语言/JavaScript/标准内置对象.md",
+    "JS临时文件夹/全局对象.md",
+    "前端知识体系/语言/JavaScript/表达式.md",
+    "前端知识体系/语言/JavaScript/运算符.md",
+    "前端知识体系/语言/JavaScript/ES6+ 新特性.md",
+    "前端知识体系/语言/JavaScript/语句和声明.md",
+    "前端知识体系/语言/JavaScript/数据类型和值.md",
+    "前端知识体系/语言/JavaScript/异步编程.md",
+    "前端知识体系/语言/JavaScript/类和继承.md",
+    "前端知识体系/语言/JavaScript/原型与原型链.md",
+    "前端知识体系/语言/JavaScript/对象的创建与操作.md",
+    "前端知识体系/语言/JavaScript/基础语法.md",
+    "前端知识体系/语言/JavaScript/流程控制.md",
     "前端知识体系/语言/语言.md",
-    "工具函数/uniqueArray.md",
-    "工具函数/throttle.md",
-    "工具函数/randomNumber.md",
-    "工具函数/mergeObjects.md",
-    "工具函数/deepClone.md",
-    "工具函数/debounce.md",
-    "工具函数/curry.md",
+    "JS临时文件夹/数据的运算.md",
+    "前端知识体系/语言/JavaScript/词法语法.md",
     "前端知识体系/前端知识体系.md",
-    "前端知识体系/服务端/服务端.md",
-    "前端知识体系/工程化/工程化.md",
-    "前端知识体系/环境/环境.md",
-    "前端知识体系/框架/框架.md",
-    "前端知识体系/思想/思想.md",
-    "前端知识体系/效率和工具/效率和工具.md",
-    "前端知识体系/移动端/移动端.md",
+    "前端知识体系/环境/网络/跨域问题及解决方案.md",
+    "前端知识体系/环境/网络/网络.md",
+    "前端知识体系/环境/网络/网络分层模型和应用协议.md",
+    "前端知识体系/环境/网络/浏览器的通信能力.md",
     "前端知识体系/服务端",
     "前端知识体系/思想",
     "前端知识体系/移动端",
     "前端知识体系/效率和工具",
-    "前端知识体系/环境/WebAPI.md",
-    "前端知识体系/环境/网络/网络.md",
-    "JS临时文件夹/WebAPI.md",
     "前端知识体系/环境/新建 文本文档.txt",
-    "前端知识体系/基础核心/CSS/CSS.md",
-    "前端知识体系/语言/JavaScript/面向对象编程.md",
-    "前端知识体系/语言/HTML/HTML.md",
-    "前端知识体系/语言/JavaScript/运算符.md",
-    "前端知识体系/语言/JavaScript/流程控制.md",
-    "前端知识体系/语言/JavaScript/类和继承.md",
-    "前端知识体系/语言/JavaScript/数据类型.md",
     "前端知识体系/语言/CSS/06 属性值计算过程简介.pdf",
     "前端知识体系/语言/JavaScript",
     "前端知识体系/语言/HTML",
