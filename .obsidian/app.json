@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "readableLineLength": true
+}
