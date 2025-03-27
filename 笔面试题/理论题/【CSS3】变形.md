@@ -33,7 +33,7 @@ transform: none|transform-functions;
 
 ### 变形属性
 
-1. **_transform_ 属性**
+#### **_transform_ 属性**
 
 第一个首当其冲的就是 _transform_ 属性，该属性所对应的属性值就是一系列的变形函数，例如：
 
@@ -43,7 +43,7 @@ transform: scale(1.5)
 
 上面的代码中，我们设置了 _transform_ 属性，属性值为 _scale_ 变形函数。
 
-1. **_transform-origin_ 属性**
+#### **_transform-origin_ 属性**
 
 接下来第二个是 _transform-origin_ 属性，该属性用于设置元素的中心点位置。该属性语法如下：
 
@@ -215,7 +215,7 @@ transform-style: flat | preserve-3d;
 
 怎么样？是不是非常直观，一下子就知道 _transform-style_ 属性的作用是什么了。该属性就是指定子元素是在 _3D_ 空间还是 _2D_ 平面中显示。
 
-1. **_perspective_ 属性**
+#### **_perspective_ 属性**
 
 _perspective_ 属性用于设置查看者的位置，可以将可视内容映射到一个视锥上，继而投到一个 _2D_ 视平面上。如果不指定该属性，则 _Z_ 轴空间中所有点将平铺到同一个 _2D_ 视平面中，并且在变换结果中将不存在景深概念。
 
@@ -286,7 +286,7 @@ _perspective_ 属性用于设置查看者的位置，可以将可视内容映射
 - 取值越小：_3D_ 效果越明显，也就是眼睛越靠近真 _3D_。
 - 取值无穷大或者为 _0_：与取值为 _none_ 的效果一样。
 
-1. **_perspective-origin_ 属性**
+#### **_perspective-origin_ 属性**
 
 如果理解了上面的 _perspective_ 属性，那么这个 _perspective-origin_ 就非常好理解了，该属性用来决定 _perspective_ 属性的源点角度。
 
@@ -316,7 +316,7 @@ perspective-origin: x-axis y-axis;
 
 ![](https://xiejie-typora.oss-cn-chengdu.aliyuncs.com/2021-09-19-124646.gif)
 
-1. **_backface-visibility_ 属性**
+#### **_backface-visibility_ 属性**
 
 _backface-visibility_ 属性决定元素旋转背面是否可见。对于未旋转的元素，该元素的正面面向观看者。当其旋转 _180_ 度时会导致元素的背面面向观众。
 
@@ -349,7 +349,7 @@ backface-visibility: visible|hidden;
 
 整个 CSS3 为我们提供了相当丰富的变形函数，有 _2D_ 的，有 _3D_ 的。这里我们先来看 _2D_ 的变形函数。
 
-### _2D_ 位移
+#### _2D_ 位移
 
 _2D_ 位移对应有 _3_ 个变形函数，分别是 _translate、translateX、translateY_
 
@@ -365,7 +365,7 @@ div {
 
 ![](https://xiejie-typora.oss-cn-chengdu.aliyuncs.com/2021-09-19-134634.png)
 
-### _2D_ 缩放
+#### _2D_ 缩放
 
 _2D_ 缩放对应的也有 _3_ 个变形函数，分别是 _sclae、sclaeX、sclaeY_
 
@@ -381,7 +381,7 @@ div {
 
 ![](https://xiejie-typora.oss-cn-chengdu.aliyuncs.com/2021-09-19-135001.png)
 
-### _2D_ 旋转
+#### _2D_ 旋转
 
 _2D_ 旋转对应的只有 _1_ 个变形函数 _rotate_，这个我们在前面也已经用过了。
 
@@ -397,7 +397,7 @@ div {
 
 ![](https://xiejie-typora.oss-cn-chengdu.aliyuncs.com/2021-09-19-135300.png)
 
-### _2D_ 倾斜
+#### _2D_ 倾斜
 
 _2D_ 倾斜对应的变形函数也是 _3_ 个，分别是 _skew、skewX、skewY_
 
@@ -431,7 +431,7 @@ div:hover{
 
 ![](https://xiejie-typora.oss-cn-chengdu.aliyuncs.com/2021-09-19-140231.gif)
 
-### _2D_ 矩阵
+#### _2D_ 矩阵
 
 虽然 _CSS3_ 为我们提供了上述的变形函数方便我们进行元素的变形操作，但是毕竟函数个数有限，有些效果是没有提供的，例如镜像翻转的效果。此时就轮到 _2D_ 矩阵函数 _matrix_ 登场了。
 
@@ -810,7 +810,7 @@ div:hover {
 - **_3D_ 缩放**：包括 _scaleZ_ 和 _sclae3d_ 两个变形函数。
 - **_3D_ 矩阵**：和 _2D_ 变形一样，也有一个 _3D_ 矩阵功能函数 _matrix3d_
 
-### _3D_ 位移
+#### _3D_ 位移
 
 我们直接来看合成变形函数 _translate3d_，其语法如下：
 
@@ -859,7 +859,7 @@ translate3d(tx, ty, tz)
 
 ![](https://xiejie-typora.oss-cn-chengdu.aliyuncs.com/2021-09-20-024039.gif)
 
-### _3D_ 旋转
+#### _3D_ 旋转
 
 在三维变形中，可以让元素在任何轴旋转，对应的变形函数有 _rotateX、rotateY、rotateZ_ 以及 _rotate3d_。
 
@@ -909,7 +909,7 @@ rotate3d(x, y, z, a)
 
 ![](https://xiejie-typora.oss-cn-chengdu.aliyuncs.com/2021-09-21-132328.gif)
 
-### _3D_ 缩放
+#### _3D_ 缩放
 
 _3D_ 缩放主要有 _sclaeZ_ 和 _scale3d_，其中 _scale3d_ 就是 _scaleX_、_scaleY_ 以及 _scaleZ_ 的复合变形函数。其语法如下：
 
@@ -1003,7 +1003,7 @@ scale(sx, sy, sz)
 
 ![](https://xiejie-typora.oss-cn-chengdu.aliyuncs.com/2021-09-21-143413.gif)
 
-### _3D_ 矩阵
+#### _3D_ 矩阵
 
 _CSS3_ 中的 _3D_ 矩阵比 _2D_ 矩阵复杂，从二维到三维，在矩阵里 3_3 变成 4_4，即 _9_ 到 _16_。
 

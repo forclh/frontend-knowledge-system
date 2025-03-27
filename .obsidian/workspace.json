@@ -4,67 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "468d0470020ea118",
+        "id": "b8ac780b300fb8a9",
         "type": "tabs",
         "children": [
           {
-            "id": "0bb165a4e48387f0",
+            "id": "80a11049e1ae83cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔面试题/理论题/【CSS】.md",
+                "file": "前端知识体系/工程化/工程化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【CSS】"
+              "title": "工程化"
             }
           },
           {
-            "id": "ebc2fb83d959759e",
+            "id": "1f2c71a613afa5f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔面试题/理论题/【CSS】.md",
+                "file": "前端知识体系/工程化/包管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【CSS】"
-            }
-          },
-          {
-            "id": "1a735dbc98762c9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔面试题/理论题/【CSS】.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "【CSS】"
-            }
-          },
-          {
-            "id": "0f4ab3146baea296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔面试题/理论题/【CSS】渐进增强和优雅降级.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "【CSS】渐进增强和优雅降级"
+              "title": "包管理"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +83,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "笔面试题/理论题/【CSS】.md",
+                "file": "前端知识体系/工程化/工程化.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -135,19 +106,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224436,
+                  "scale": 0.7132754626224439,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "【CSS】 的关系图"
+              "title": "工程化 的关系图"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 580.5
   },
   "right": {
     "id": "6113573dd45125c3",
@@ -156,7 +127,7 @@
       {
         "id": "240ba4ec1d18dc9b",
         "type": "tabs",
-        "dimension": 32.450980392156865,
+        "dimension": 18.75,
         "children": [
           {
             "id": "d1c71347cfaf61fa",
@@ -164,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔面试题/理论题/let、var、const的区别.md",
+                "file": "笔面试题/理论题/【CSS3】 遮罩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "let、var、const的区别 的反向链接列表"
+              "title": "【CSS3】 遮罩 的反向链接列表"
             }
           },
           {
@@ -214,7 +185,29 @@
       {
         "id": "9f62ba8920134393",
         "type": "tabs",
-        "dimension": 36.66666666666666,
+        "dimension": 40.625,
+        "children": [
+          {
+            "id": "66a19ec9446b2995",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端知识体系/工程化/工程化.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "工程化 的大纲"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ed6b219a639414ed",
+        "type": "tabs",
+        "dimension": 40.625,
         "children": [
           {
             "id": "ea8a2d27474bde04",
@@ -232,33 +225,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "bb639f03efc4ea62",
-        "type": "tabs",
-        "dimension": 30.882352941176467,
-        "children": [
-          {
-            "id": "66a19ec9446b2995",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "笔面试题/理论题/【CSS】BFC.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "【CSS】BFC 的大纲"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 442.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,52 +237,55 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1a735dbc98762c9a",
+  "active": "80a11049e1ae83cb",
   "lastOpenFiles": [
-    "笔面试题/理论题/未命名.md",
-    "笔面试题/理论题/【CSS】.md",
-    "笔面试题/理论题/【CSS】BFC.md",
-    "笔面试题/理论题/【CSS】渐进增强和优雅降级.md",
-    "笔面试题/理论题/【CSS】隐藏元素方式总结.md",
-    "笔面试题/理论题/【CSS】居中方式总结.md",
-    "笔面试题/理论题/【CSS3】变形.md",
-    "笔面试题/理论题/【CSS】单位总结.md",
-    "笔面试题/理论题/理论题.md",
-    "笔面试题/理论题/请简述JavaScript中的this.md",
-    "笔面试题/笔面试题.md",
-    "前端知识体系/环境/网络/dataURL.md",
-    "前端知识体系/环境/网络/网络分层模型和应用协议.md",
-    "前端知识体系/环境/网络/网络.md",
-    "前端知识体系/环境/网络/浏览器的通信能力.md",
-    "前端知识体系/环境/环境.md",
+    "前端知识体系/工程化/包管理.md",
+    "前端知识体系/工程化/工程化.md",
+    "前端知识体系/工程化/模块化.md",
+    "附件/2019-12-04-14-33-14.png",
+    "附件/2019-12-03-17-00-44.png",
+    "附件/2019-12-02-10-57-23.png",
+    "附件/2019-12-02-10-59-43.png",
+    "附件/2019-12-02-11-15-01.png",
+    "附件/2019-12-02-11-27-12.png",
     "前端知识体系/前端知识体系.md",
-    "前端知识体系/语言/语言.md",
-    "README.md",
+    "附件",
+    "前端知识体系/工程化/JS工具链.md",
+    "前端知识体系/环境/环境.md",
+    "前端知识体系/移动端/移动端.md",
+    "前端知识体系/工程化/测试.md",
+    "前端知识体系/环境/网络/网络.md",
+    "前端知识体系/环境/WebAPI.md",
+    "前端知识体系/环境/网络/HTTP.md",
+    "前端知识体系/环境/网络/五层网络模型.md",
+    "前端知识体系/环境/网络/文件上传.md",
+    "前端知识体系/环境/网络/场景.md",
+    "前端知识体系/环境/网络/浏览器环境.md",
+    "前端知识体系/环境/网络/session.md",
+    "前端知识体系/环境/网络/jwt.md",
+    "前端知识体系/环境/网络/网络笔面试题.md",
+    "前端知识体系/环境/网络/安全.md",
+    "前端知识体系/环境/网络/常见的请求方法.md",
+    "前端知识体系/环境/网络/基本概念.md",
+    "前端知识体系/环境/网络/cookie.md",
+    "前端知识体系/框架/框架.md",
+    "前端知识体系/环境/网络/CSRF.md",
+    "前端知识体系/环境/网络/XSS.md",
+    "项目/低代码项目",
+    "项目",
+    "前端知识体系/语言/CSS/06 属性值计算过程简介.pdf",
     "Pasted image 20250225171500.png",
-    "temp.md",
-    "c.md",
     "Pasted image 20250226160833.png",
-    "临时文件夹/包装类型.md",
-    "前端知识体系/语言/JavaScript/BOM.md",
-    "前端知识体系/语言/JavaScript/JavaScript.md",
-    "前端知识体系/语言/JavaScript/面向对象OOP.md",
-    "临时文件夹/继承1.md",
     "前端知识体系/服务端",
     "前端知识体系/思想",
     "前端知识体系/移动端",
     "前端知识体系/效率和工具",
-    "前端知识体系/环境/WebAPI.md",
-    "JS临时文件夹/WebAPI.md",
     "前端知识体系/环境/新建 文本文档.txt",
-    "前端知识体系/基础核心/CSS/CSS.md",
-    "前端知识体系/语言/JavaScript/面向对象编程.md",
-    "前端知识体系/语言/CSS/06 属性值计算过程简介.pdf",
     "前端知识体系/语言/JavaScript",
-    "前端知识体系/语言/HTML",
-    "前端知识体系/语言/CSS",
     "未命名.canvas",
     "Pasted image 20250208151234.png"
   ]
