@@ -1,4 +1,4 @@
-参见官网文档：[https://cn.vuejs.org/v2/guide/components-slots.html#作用域插槽](https://cn.vuejs.org/v2/guide/components-slots.html#%E4%BD%9C%E7%94%A8%E5%9F%9F%E6%8F%92%E6%A7%BD)
+参见官网文档：[作用域插槽](https://v2.cn.vuejs.org/v2/guide/components-slots.html#%E4%BD%9C%E7%94%A8%E5%9F%9F%E6%8F%92%E6%A7%BD)
 
 属性：
 

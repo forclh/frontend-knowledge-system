@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识体系/工程化/工程化.md",
+                "file": "笔面试题/理论题/【Vue3】面试题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工程化"
+              "title": "【Vue3】面试题"
             }
           },
           {
-            "id": "1f2c71a613afa5f5",
+            "id": "c4ee20928ffdba82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端知识体系/工程化/包管理.md",
+                "file": "笔面试题/理论题/【Vue3】整体变化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "包管理"
+              "title": "【Vue3】整体变化"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,11 +84,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "前端知识体系/工程化/工程化.md",
+                "file": "笔面试题/理论题/【Vue3】整体变化.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 1,
                   "localBacklinks": false,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -111,14 +112,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "工程化 的关系图"
+              "title": "【Vue3】整体变化 的关系图"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 580.5
+    "width": 485.5
   },
   "right": {
     "id": "6113573dd45125c3",
@@ -193,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端知识体系/工程化/工程化.md",
+                "file": "笔面试题/理论题/【Vue2】你不知道的computed.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工程化 的大纲"
+              "title": "【Vue2】你不知道的computed 的大纲"
             }
           }
         ]
@@ -228,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 350.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,40 +243,41 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "80a11049e1ae83cb",
+  "active": "c4ee20928ffdba82",
   "lastOpenFiles": [
-    "前端知识体系/工程化/包管理.md",
-    "前端知识体系/工程化/工程化.md",
-    "前端知识体系/工程化/模块化.md",
+    "笔面试题/理论题/【Vue3】面试题.md",
+    "笔面试题/理论题/【Vue3】整体变化.md",
+    "笔面试题/理论题/【Vue3】图解快速diff.md",
+    "笔面试题/理论题/【Vue3】图解双端diff.md",
+    "笔面试题/理论题/【Vue3】模板编译优化.md",
+    "笔面试题/理论题/【Vue3】Vue3响应式变化.md",
+    "笔面试题/理论题/【Vue】优化.md",
+    "笔面试题/理论题/理论题.md",
+    "笔面试题/理论题/【Vue2】面试题.md",
+    "笔面试题/理论题/【Vue2】过渡和动画.md",
+    "笔面试题/理论题/【Vue2】作用域插槽.md",
+    "笔面试题/理论题/【Vue2】过滤器.md",
+    "笔面试题/理论题/【Vue2】你不知道的computed.md",
+    "笔面试题/理论题/【Vue2】生命周期详解.md",
+    "笔面试题/理论题/【工程化】面试题.md",
+    "笔面试题/理论题/【工程化】CMJ和EMJ.md",
+    "笔面试题/理论题/ESLint.md",
+    "笔面试题/理论题/npx.md",
+    "笔面试题/理论题/【网络】面试题.md",
+    "笔面试题/理论题/WebSocket.md",
+    "笔面试题/理论题/HTTP个版本差异.md",
+    "笔面试题/理论题/SSL、TLS、HTTPS.md",
+    "笔面试题/理论题/域名和DNS.md",
+    "笔面试题/理论题/断点续传.md",
+    "笔面试题/理论题/网络性能优化.md",
+    "前端知识体系/环境/网络/XSS.md",
     "附件/2019-12-04-14-33-14.png",
     "附件/2019-12-03-17-00-44.png",
     "附件/2019-12-02-10-57-23.png",
     "附件/2019-12-02-10-59-43.png",
     "附件/2019-12-02-11-15-01.png",
     "附件/2019-12-02-11-27-12.png",
-    "前端知识体系/前端知识体系.md",
     "附件",
-    "前端知识体系/工程化/JS工具链.md",
-    "前端知识体系/环境/环境.md",
-    "前端知识体系/移动端/移动端.md",
-    "前端知识体系/工程化/测试.md",
-    "前端知识体系/环境/网络/网络.md",
-    "前端知识体系/环境/WebAPI.md",
-    "前端知识体系/环境/网络/HTTP.md",
-    "前端知识体系/环境/网络/五层网络模型.md",
-    "前端知识体系/环境/网络/文件上传.md",
-    "前端知识体系/环境/网络/场景.md",
-    "前端知识体系/环境/网络/浏览器环境.md",
-    "前端知识体系/环境/网络/session.md",
-    "前端知识体系/环境/网络/jwt.md",
-    "前端知识体系/环境/网络/网络笔面试题.md",
-    "前端知识体系/环境/网络/安全.md",
-    "前端知识体系/环境/网络/常见的请求方法.md",
-    "前端知识体系/环境/网络/基本概念.md",
-    "前端知识体系/环境/网络/cookie.md",
-    "前端知识体系/框架/框架.md",
-    "前端知识体系/环境/网络/CSRF.md",
-    "前端知识体系/环境/网络/XSS.md",
     "项目/低代码项目",
     "项目",
     "前端知识体系/语言/CSS/06 属性值计算过程简介.pdf",
