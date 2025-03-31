@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔面试题/理论题/【Vue3】面试题.md",
+                "file": "笔面试题/理论题/【Vue3】Vue3响应式变化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【Vue3】面试题"
+              "title": "【Vue3】Vue3响应式变化"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "【Vue3】整体变化"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "笔面试题/理论题/【Vue3】整体变化.md",
+                "file": "笔面试题/理论题/【Vue3】Vue3响应式变化.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -112,7 +111,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "【Vue3】整体变化 的关系图"
+              "title": "【Vue3】Vue3响应式变化 的关系图"
             }
           }
         ]
@@ -243,7 +242,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c4ee20928ffdba82",
+  "active": "80a11049e1ae83cb",
   "lastOpenFiles": [
     "笔面试题/理论题/【Vue3】面试题.md",
     "笔面试题/理论题/【Vue3】整体变化.md",
